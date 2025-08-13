@@ -1,6 +1,3 @@
-android-app
-music-player
-
 
 ## 📱 About
 **Gana** is a feature-rich music streaming Android application developed as a university project. The app provides a comprehensive music experience with user authentication, multi-language support, and an intuitive interface for discovering and playing music.
