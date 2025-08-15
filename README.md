@@ -39,14 +39,14 @@
 
 | Feature | Screenshot |
 |---------|------------|
-| **Language Selection** | ![Language Selection](Screenshots/6115933086639309558.jpg) |
-| **Login Screen** | ![Login](Screenshots/6115933086639309559.jpg) |
+| **Language Selection** | ![Language Selection](Screenshots/6115933086639309561.jpg) |
+| **Login Screen** | ![Login](Screenshots/6115933086639309558.jpg) |
+| **Sign Up** | ![Sign up](Screenshots/6115933086639309559.jpg) |
 | **Home Screen** | ![Home](Screenshots/6115933086639309560.jpg) |
-| **Music Player** | ![Player](Screenshots/6115933086639309561.jpg) |
-| **Search Interface** | ![Search](Screenshots/6115933086639309562.jpg) |
-| **Library View** | ![Library](Screenshots/6115933086639309563.jpg) |
-| **Album Collection** | ![Albums](Screenshots/6115933086639309564.jpg) |
-| **Songs List** | ![Songs](Screenshots/6115933086639309565.jpg) |
+| **Music Player** | ![Player](Screenshots/6115933086639309564.jpg) |
+| **Search Interface** | ![Search](Screenshots/6115933086639309565.jpg) |
+| **Library View** | ![Library](Screenshots/Lib.jpg) |
+| **Songs List** | ![Songs](Screenshots/6115933086639309563.jpg) |
 
 ## 🎥 Demo Video
 📹 [Watch the app demo](Screenshots/Screenrecording_20250813_094843.mp4)
